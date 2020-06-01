@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="848f8acf-b5de-4841-9736-cc79362c47b6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/KafkaProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/kafka/firstproject/ProducerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-practice/java-practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-practice/src/main/java/com/java/practice/FindOccurenceOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-practice/src/main/java/com/java/practice/HackerPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-practice/src/main/java/com/java/practice/PassbyRefbyValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-practice/src/main/java/com/java/practice/ReplaceWithSpaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-practice/src/main/java/com/java/practice/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-practice/src/main/java/com/java/practice/SwapMinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-practice/src/main/java/com/java/practice/SwapTwoInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-practice/src/main/java/com/java/practice/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-practice/src/main/java/com/java/practice/UniqueChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-practice/src/main/java/com/java/practie/datastructures/DSMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-practice/src/main/java/com/java/practie/datastructures/ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-practice/src/main/java/com/java/practie/datastructures/SortSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8lambdabasics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java8lambdabasics/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8lambdabasics/src/io/javabrains/Greeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java8lambdabasics/src/io/javabrains/Greeting.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1cjEgNU4qZtVGBoqApkpqOzfpu9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ProducerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.kafka.firstproject.ProducerDemo" />
+      <module name="KafkaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.kafka.firstproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProducerDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="848f8acf-b5de-4841-9736-cc79362c47b6" name="Default Changelist" comment="" />
+      <created>1591033712637</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591033712637</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="111" key="#Project_Structure" timestamp="1591034080979">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="392" y="111" key="#Project_Structure/0.0.1600.900@0.0.1600.900" timestamp="1591034080979" />
+    <state x="439" y="143" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1591035876347">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="439" y="143" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1600.900@0.0.1600.900" timestamp="1591035876347" />
+    <state width="1557" height="235" key="GridCell.Tab.0.bottom" timestamp="1591039568231">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="235" key="GridCell.Tab.0.bottom/0.0.1600.900@0.0.1600.900" timestamp="1591039568231" />
+    <state width="1557" height="235" key="GridCell.Tab.0.center" timestamp="1591039568230">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="235" key="GridCell.Tab.0.center/0.0.1600.900@0.0.1600.900" timestamp="1591039568230" />
+    <state width="1557" height="235" key="GridCell.Tab.0.left" timestamp="1591039568230">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="235" key="GridCell.Tab.0.left/0.0.1600.900@0.0.1600.900" timestamp="1591039568230" />
+    <state width="1557" height="235" key="GridCell.Tab.0.right" timestamp="1591039568230">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="235" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1591039568230" />
+    <state x="280" y="27" key="SettingsEditor" timestamp="1591039131578">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="280" y="27" key="SettingsEditor/0.0.1600.900@0.0.1600.900" timestamp="1591039131578" />
+  </component>
+</project>
